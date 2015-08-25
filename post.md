@@ -30,7 +30,7 @@ Installing an SSL certificate on your server is quick and inexpensive; most host
 
 ### 4. Never Trust Anyone
 
-Likewise, you should make every effort to protect any and _all_ of your online communications from eavesdroppers. Manage your site from a Starbucks? Edit content from a hotel? Moderate comments from an out-of-town hotel?
+Likewise, you should make every effort to protect any and _all_ of your online communications from eavesdroppers. Manage your site from a Starbucks? Edit content from a hotel? Moderate comments from a friend's house out-of-town?
 
 These are all incredibly easy ways to get your site hacked at the end of the day.
 
